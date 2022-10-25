@@ -22,7 +22,7 @@ header h3 {
     font-size: 130%;
     font-style: italic;
     text-indent: 30px;
-    color: #800000;
+    color: #000000;
 }
 
 
@@ -39,6 +39,7 @@ main h1 {
 
 main h2 {
     font-size: 130%;
+    color: #800000
 }
 
 main h3 {
